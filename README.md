@@ -1,7 +1,7 @@
 # ddd-petstore
 
 ## GitPod 접속
-https://gitpod.io/#https://github.com/msa-school/ddd-petstore-level9-bounded-multi-model
+https://gitpod.io/#https://github.com/Myung-Jae-Hun/ddd-petstore-level9-bounded-multi-model
 
 - 접속 후 "Terminal > Terminal열기"
 
@@ -156,7 +156,7 @@ http localhost:8088/cartItems    # service url of store domain
 ## pet domain 의 front-end 실행
 - 코드 다운로드
 ```
-git clone https://github.com/msa-school/ddd-petstore-frontend-pet-domain
+git clone https://github.com/Myung-Jae-Hun/ddd-petstore-frontend-pet-domain
 ```
 - Port 설정변경 (package.json)
 ```
@@ -192,7 +192,7 @@ module.exports = {
   ],
   devServer: {
     allowedHosts: [
-      '8080-msaschool-dddpetstorele-unxdrc0wqhx.ws-us41.gitpod.io',  // 접속 URL (gitpod 팝업 url, http:// 부분, 끝의 / 부분 제외)
+      '8080-Myung-Jae-Hun-dddpetstorele-unxdrc0wqhx.ws-us41.gitpod.io',  // 접속 URL (gitpod 팝업 url, http:// 부분, 끝의 / 부분 제외)
     ],
   },
 }
@@ -207,7 +207,7 @@ module.exports = {
 
 ## store domain 의 front-end 실행
 ```
-git clone https://github.com/msa-school/ddd-petstore-frontend-store-domain
+git clone https://github.com/Myung-Jae-Hun/ddd-petstore-frontend-store-domain
 npm i
 npm run serve
 ```
