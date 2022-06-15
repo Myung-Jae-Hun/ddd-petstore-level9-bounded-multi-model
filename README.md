@@ -139,7 +139,7 @@ http :8083/cartItems customer="http://localhost:8083/customers/park@naver.com" i
 
 
 
-# Gateway 를 통한 진입점 통일(8080)
+# Gateway 를 통한 진입점 통일(8080) - pet domain 의 front-end 실행
 
 ```
 cd gateway
