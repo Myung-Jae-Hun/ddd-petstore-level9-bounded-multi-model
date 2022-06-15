@@ -14,7 +14,7 @@ pip install httpie
 
 ## Kafka 의 접속
 ### Docker Compose 이용 (도커 있을 때 강추)
-- Kafka 의 실행 (Docker Compose) 이것만 해도 8081난 접속됨
+- Kafka 의 실행 (Docker Compose) 이것만 해도 8081 접속됨
 ```
 cd kafka
 docker-compose up -d     # docker-compose 가 모든 kafka 관련 리소스를 받고 실행할 때까지 기다림
